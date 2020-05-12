@@ -1,5 +1,5 @@
 # python-exercises
-Python入门习题
+给Python编程入门系列视频习题
 
 * [1-Python简介与环境搭建](1-Python简介与环境搭建.md)
 * [2-语法与编程规范](2-语法与编程规范.md)
